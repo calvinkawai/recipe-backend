@@ -1,6 +1,6 @@
 # recipe-backend
 
-This project is
+This project follows django rest framework tutorial and add more types of fields (Image, JSON) accepted by API
 
 ## To run the server
 ```
